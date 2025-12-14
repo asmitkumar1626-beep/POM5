@@ -26,7 +26,7 @@ class Register(Basepage):
     def credentials_input(self):
         self.type(self.firstname,"asmit")
         self.type(self.lastname,"kumar")
-        self.type(self.email,"asmitkumarrrrrrrrrr7750@gmail.com")
+        self.type(self.email,"asmitkumarrrrrrrrrrr7750@gmail.com")
         self.type(self.number,"7873901626")
         self.type(self.password,"asmit@7750")
         self.type(self.confirm_password,"asmit@7750")
